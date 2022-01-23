@@ -26,7 +26,7 @@ def banner():
 {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
             Version: 1.3
-     Modified by @AbirHasan2005
+     Modified by @santuylahh
         """)
 
 cpass = configparser.RawConfigParser()
