@@ -9,7 +9,7 @@ print ("░█▀█░█▀▄░█▀▄░█▀▀░█▀▄")
 print ("░█▀█░█░█░█░█░█▀▀░█▀▄")
 print ("░▀░▀░▀▀░░▀▀░░▀▀▀░▀░▀")
 print ("")
-print ("      by \033[1;95m@AbirHasan2005")
+print ("      by \033[1;95m@santuylahh")
 print ("\033[1;92m")
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
